@@ -12,8 +12,8 @@
  <a href="https://poltech.netlify.app/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
-     <a href="https://pol-usieto-final-project-front-2023.netlify.app/pirates">
-    <img src="https://img.shields.io/badge/Pirate Haven-brown?style=for-the-badge&logo=About.web&logoColor=white"/>
+     <a href="https://www.instagram.com/usietopol/">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=black"/>
   </a>
   </div>
 
