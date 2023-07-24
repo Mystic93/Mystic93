@@ -1,5 +1,7 @@
-### Hi there 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFscnd1YmlhbGpwOW5vdzJmb3UxeHU4ZmQ2bHp5bmp3NmVoMmlsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EAfeMhhZjJ9zhXh69P/giphy.gif" width="50">
+<h1 align="center">What's up! I'm Pol </a>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFscnd1YmlhbGpwOW5vdzJmb3UxeHU4ZmQ2bHp5bmp3NmVoMmlsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EAfeMhhZjJ9zhXh69P/giphy.gif" width="50">
+</h1>
+
 
 <!--
 **Mystic93/Mystic93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
