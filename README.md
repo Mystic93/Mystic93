@@ -41,8 +41,8 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3B0a2czOGpmMWdqM3F5Mmk4Z
   </div>
   </div>
   </div>
-   <div id="contact" align="center">
-   <h2 align="center">Let's talk!</h2>
+   <div id="contact" align="left">
+   <h2 align="left">Let's talk!</h2>
     
 
   <br/>
