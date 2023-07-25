@@ -31,9 +31,12 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3B0a2czOGpmMWdqM3F5Mmk4Z
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="50" height="50"/>&nbsp; 
       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="50" height="50"/>&nbsp; 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
-       
+       <br/> 
+       <br/>
+        <br/>
+      
   <div align="center">
-  
+ 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mystic93&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats) 
   </div>
   </div>
